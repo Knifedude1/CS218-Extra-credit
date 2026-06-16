@@ -1,0 +1,5 @@
+topics i fell i have not mastery compeletly is macros and function. steps i will make to help me better understand
+the topics is one set more time out of my day to review the notes we took from class to help understand
+what the definitons of marcos and function and how to write and implement into my code.
+second i will try to write my own marcos besides the one from homework to help me understand them better and
+how to write marcos under different situtions, also review pratices question that ask you to write marcos and functions
